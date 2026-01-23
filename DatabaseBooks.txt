@@ -1,0 +1,20 @@
+9789630792554;George Orwell;1984;2021;True
+9789634158424;Douglas Adams;Galoppozó galaxis útikalauz stopposoknak;2020;True
+9789632446073;Frank Herbert;Dűne;2022;False
+9789634155126;J.R.R. Tolkien;A Gyűrűk Ura - A Gyűrű Szövetsége;2021;True
+9789635384211;Stephen King;Az;2023;True
+9789634065609;Margaret Atwood;A szolgálólány meséje;2017;False
+9789633999905;Joanne Kathleen Rowling;Harry Potter és a bölcsek köve;2024;True
+9789632273297;Szerb Antal;Utas és holdvilág;2018;True
+9789633278246;Márai Sándor;A gyertyák csonkig égnek;2020;False
+9789634477540;Yuval Noah Harari;Sapiens;2020;True
+9789630789073;Gabriel García Márquez;Száz év magány;2019;True
+9789632454528;Isaac Asimov;Alapítvány;2023;False
+9786156058140;Mihail Bulgakov;A Mester és Margarita;2020;True
+9789630799843;Aldous Huxley;Szép új világ;2022;True
+9789634065500;Ray Bradbury;Fahrenheit 451;2019;False
+9789634478332;Ernest Hemingway;Az öreg halász és a tenger;2021;True
+9789630796330;Albert Camus;Közöny;2018;True
+9789634321019;Agatha Christie;Tíz kicsi néger;2021;False
+9789634471258;Harper Lee;Ne bántsátok a feketerigót!;2020;True
+9789634479902;Oscar Wilde;Dorian Gray arcképe;2021;True
